@@ -26,7 +26,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'tianbao', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个电子爱好者', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'http://tianbao233.com', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://tianbao233.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'tianbao,博客,blog,天保', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
